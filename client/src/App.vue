@@ -1,8 +1,6 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
-  </div>
+  <h1>File management system
+  </h1>
 </template>
 
 <script>
